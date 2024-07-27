@@ -1,2 +1,2 @@
-# superset_projeect
+# superset_project
 Apache Superset Trading Dashboard
